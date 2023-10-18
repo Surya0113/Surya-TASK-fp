@@ -1,0 +1,219 @@
+#maindiv{
+    width: 861px;
+    background-color:whitesmoke;
+}
+.search-container{
+    height: 50px;
+    /* border: 2px solid black; */
+}
+#search-input{
+    width: 150px;
+    margin-left: 650px;
+    height: 10px;
+}
+
+.row{
+    width: 100%;
+    /* border: 2px solid green; */
+    display: flex;
+    flex-direction: row;
+    
+    
+  }
+.block{
+    margin-top: 10px;
+    height: 110px;
+    margin-left: 50px;
+    /* border: 2px solid red; */
+    width: 160px;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: row;
+    background-color: white;
+
+}
+#img1{
+    margin-top: 15px;
+    height: 80px;
+}
+#div3{
+    margin-left: 15px;
+    margin-top: 15px;
+}
+#div4{
+    margin-top: 30px;
+    height: 400px;
+    background-color: white;
+    /* border: 2px solid blue; */
+    display: flex;
+    flex-direction: row;
+}
+#div5{
+    /* border: 2px solid red; */
+    width: 600px;
+    display: flex;
+    flex-direction: column;
+}
+#div6{
+    margin-left: 5px;
+    /* border: 2px solid green; */
+    width: 300px;
+    
+}
+#div7{
+/* border: 2px solid black; */
+height: 50px;
+display: flex;
+justify-content: space-between;
+}
+#div8{
+/* border: 2px solid brown; */
+height: 350px;}
+
+#imgbar{
+    margin-top: 50px;
+width: 580px;
+
+}
+#circle{
+    margin-top: 20px;
+    
+    height: 20  0px;
+    width: 250px;
+}
+.bblock{
+    margin-top: 10px;
+    height: 110px;
+    border-radius: 5px;
+    margin-left: 50px;
+    /* border: 2px solid red; */
+    width: 150px;
+    background-color: white;
+    
+    display: flex;
+    flex-direction: row;
+
+}
+#bimg{
+    margin-top: 15px;
+    height: 80px;
+}
+#b3{
+    margin-left: 15px;
+    margin-top: 15px;
+}
+
+.cblock{
+    margin-top: 10px;
+    height: 110px;
+    margin-left: 50px;
+    border-radius: 5px;
+    /* border: 2px solid red; */
+    width: 160px;
+    background-color: white;
+    
+    display: flex;
+    flex-direction: row;
+
+}
+#cimg{
+    margin-top: 15px;
+    height: 80px;
+}
+#c3{
+    margin-left: 15px;
+    margin-top: 15px;
+}
+.dblock{
+    margin-top: 10px;
+    height: 110px;
+    border-radius: 5px;
+    margin-left: 50px;
+    /* border: 2px solid red; */
+    width: 150px;
+    background-color: white;
+    
+    display: flex;
+    flex-direction: row;
+
+}
+#dimg{
+    margin-top: 15px;
+    height: 80px;
+}
+#d3{
+    margin-left: 15px;
+    margin-top: 15px;
+}
+#p1{
+    height: 2px;
+}
+#p2{
+    height: 2px;
+}
+#p3{
+    color: green;
+    height: 2px;
+}
+#p4{
+    color: red;
+    height: 2px;
+}
+#search-input1{
+    width: 150px;
+    
+    height: 10px;
+}
+#lrow{
+    display: flex;
+    flex-direction: row;
+}
+#dd{
+margin-left: 80px;
+height: 20px;
+}
+#lrow2{
+    display: flex;
+    flex-direction: row;
+}
+#lrow3{
+    margin-left: 250px;
+}
+#dog-names{
+    height: 28px;
+}
+#min{
+    display: flex;
+    flex-direction: row;
+}
+#min4{
+margin-left: 100px;
+}
+#min2{
+    margin-left: 300px;
+}
+#min3{
+    margin-left:50px;
+}
+#mind{
+    display: flex;
+    flex-direction: row;
+    border-top: 2px black;
+}
+#mindicl{
+    border-top: 2px black;
+}
+
+#mind3{
+    margin-left: 80px;
+    
+}
+#mind4{
+    margin-left: 80px;
+}
+#mind5{
+    margin-left: 80px;
+}
+#th{
+    height: 30px;
+}
